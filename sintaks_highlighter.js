@@ -1,5 +1,5 @@
 <script>
-w3CodeColor(document.getElementById("kode"));
+w3CodeColor(document.getElementById("myDiv"));
 
 function w3CodeColor(elmnt, mode) {
   var lang = (mode || "html");
